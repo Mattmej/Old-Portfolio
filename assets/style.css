@@ -1,3 +1,11 @@
+body, html {
+    height: 100%;
+}
+
+.container {
+    height: 100%;
+}
+
 .space {
     margin-bottom: 20px;
 }
@@ -91,3 +99,12 @@
 /* a:hover { 
     color: #edb5bf !important; 
 } */
+
+.bg {
+    /* background-image: url("./images/background.jpg"); */
+    background-image: url("./images/background2.jpg");
+    /* height: auto; */
+    background-position: center;
+    background-size: cover;
+    max-width: 100%;
+}
