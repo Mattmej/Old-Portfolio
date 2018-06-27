@@ -61,7 +61,33 @@
     font-family: 'Open Sans', sans-serif;
 }
 
-.navbar-hover {
+/* .navbar-hover:hover { */
+    /* color: #edb5bf; */
+    /* background-color: #4d6d9a; */
+    /* background-color: #edb5bf; */
+/* } */
+
+/* .navbar-text:hover {
     color: #edb5bf;
-    background-color: #4d6d9a;
+} */
+/* 
+.navbar-text {
+    color: #edb5bf;
+} */
+
+.nav-link:hover {
+    color: #edb5bf !important;
+    background-color: #4d6d9a !important;
 }
+
+.navbar-sizer2 {
+    font-size: 30px;
+}
+
+/* a:hover {
+    color: #edb5bf;
+} */
+
+/* a:hover { 
+    color: #edb5bf !important; 
+} */
