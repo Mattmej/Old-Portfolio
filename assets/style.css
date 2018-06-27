@@ -41,3 +41,27 @@
 .pink {
     color: #edb5bf;
 }
+
+.navbar-sizer {
+    /* font-size: 50px; */
+    font-size: 40px;
+    margin-top: 10px;
+
+}
+
+.text-markazi {
+    font-family: 'Markazi Text', serif;
+}
+
+.text-questrial {
+    font-family: 'Questrial', sans-serif;
+}
+
+.text-openSans {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.navbar-hover {
+    color: #edb5bf;
+    background-color: #4d6d9a;
+}
